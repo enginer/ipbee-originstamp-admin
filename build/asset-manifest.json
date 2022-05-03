@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ipbee-originstamp-admin/build/static/css/main.19c4123d.chunk.css",
+    "main.js": "/ipbee-originstamp-admin/build/static/js/main.a7d8f24d.chunk.js",
+    "main.js.map": "/ipbee-originstamp-admin/build/static/js/main.a7d8f24d.chunk.js.map",
+    "runtime-main.js": "/ipbee-originstamp-admin/build/static/js/runtime-main.594234cb.js",
+    "runtime-main.js.map": "/ipbee-originstamp-admin/build/static/js/runtime-main.594234cb.js.map",
+    "static/js/2.04b3195e.chunk.js": "/ipbee-originstamp-admin/build/static/js/2.04b3195e.chunk.js",
+    "static/js/2.04b3195e.chunk.js.map": "/ipbee-originstamp-admin/build/static/js/2.04b3195e.chunk.js.map",
+    "index.html": "/ipbee-originstamp-admin/build/index.html",
+    "static/css/main.19c4123d.chunk.css.map": "/ipbee-originstamp-admin/build/static/css/main.19c4123d.chunk.css.map",
+    "static/js/2.04b3195e.chunk.js.LICENSE.txt": "/ipbee-originstamp-admin/build/static/js/2.04b3195e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594234cb.js",
+    "static/js/2.04b3195e.chunk.js",
+    "static/css/main.19c4123d.chunk.css",
+    "static/js/main.a7d8f24d.chunk.js"
+  ]
+}
